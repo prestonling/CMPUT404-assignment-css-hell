@@ -1,0 +1,64 @@
+/*!
+ * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #868e96; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:"Comic Sans MS", "Comic Sans", cursive;
+  color: #343a40; 
+}
+
+h1 {
+  font-size: 6rem;
+  line-height: 5.5rem; 
+  font-weight: 700;
+  text-shadow: 0 0 30px white;
+  color: red;
+}
+
+h2 {
+  font-size: 3rem; 
+  font-weight: 300;
+  text-shadow: 0 0 40px white; 
+}
+
+.header {
+	text-align: center;
+	background-color: blue;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	
+}
+
+.header h3 {
+	color: white;
+}
+
+.flex {
+  display: flex;
+}
+
+.details {
+	margin: 2rem;
+    width: 80%;
+}
+.section {
+	margin: 1rem;
+}
+
+.sidebar {
+	width: 20%;
+	background-color: yellow;
+	margin: 2rem;
+	text-align: center;
+}
+
+.profile_pic {
+	width: 200px;
+	height: auto;
+	margin: 1rem;
+}
